@@ -1,0 +1,20 @@
+=========================================================
+||                    Program PDAM                     ||
+||               PT.Blangkon Sejahtera                 ||
+|| =================================================== ||
+||  Struk Pembayaran Air : I Gusti Ngurah Putu Astrawan                            
+|| =================================================== ||
+||                                                     
+|| Kelompok Pelanggan : Usaha                           
+|| Golongan           : E2-4                           
+|| Tanggal Bayar      : 19/12/2022                     
+|| Jatuh Tempo Bayar  : Tanggal 20                     
+|| Pemakaian Air      : 31      M^3                  
+|| Biaya Air          : Rp. 432450,-                       
+|| Denda              : Rp. 0,-                         
+|| BPM                : Rp. 7500,-                         
+|| Biaya Administrasi : Rp. 12500,-                         
+||                                                     
+=========================================================
+|| Total Bayar        : Rp. 452450,-                       
+=========================================================
